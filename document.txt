@@ -1,5 +1,299 @@
-### Welcome to your project!
+# The Menu
 
-- Brush up on Markdown: http://daringfireball.net/projects/markdown/basics
-- Learn about Penflip: [penflip.com/help](http://www.penflip.com/help)
-- Talk to a person: support@penflip.com
+"The menu's alive! Johnny, come quick!"
+
+Johnny Turner paused, holding the dirty rag in his hand. These days he wiped down the counter to pass the time more than because it needed a scrub. The handful of customers that came in rarely left enough of a mess to bother over.
+
+He scanned the diner. Norm Baker sat in the corner, flipping through a newspaper over a mug of coffee that was surely cold by now. Tina Weathers had left her booth a while ago, paying the check and not leaving much of a tip by the looks of it. Margery Davenport from the flower shop across the street walked by the window and hesitated for a minute, then walked on. Johnny slung the rag over his shoulder, straightened his back, and sighed as he headed to the back office.
+
+His wife, Frankie, had spent the better part of the last month holed up in here, working on some kind of crazy project that he couldn't possibly understand. Something about lighting up the menu, as though that could possibly help balance the books.
+
+Frankie was standing over the desk, her shoulders hunched and glasses pushed up past her forehead. She turned when she heard Johnny come in, reached over and engulfed him in a tight squeeze before he could say a word.
+
+"Dim the lights, sweetie. I want to show you something." It had been three presidential administrations since she had called him sweetie. Johnny obliged, and Frankie handed over a laminated piece of paper, pink with black lettering. "Take a look. Do you notice anything?"
+
+Johnny studied the page, turning it over and searching the text for something interesting. It was just the diner's menu; he had seen it hundreds, maybe thousands of times before. He could probably recite it from memory. While doing his taxes and flossing his teeth at the same time. Other than the fact that it was now laminated, nothing at all appeared unusual about it. Except that, after a few seconds, he could swear he saw one line in particular light up.
+
+"The lumberjack?" he looked up, utterly confused. "You laminated our menu and made it light up the lumberjack special? I hate that thing, I don't know why we still offer it."
+
+"Yeah but take another look. It sounds kind of appealing, doesn't it?"
+
+Johnny considered the menu for another moment, shrugged his shoulders. "Tell you what, why don't we give it a shot? It's almost lunchtime anyway."
+
+Over two plates heaping with hash browns, pancakes and scrambled eggs, Frankie explained the new menu.
+
+"It's not just the Lumberjack Special, Johnny. It's the whole menu. It'll tell you what you want!" She was eating quickly, wolfing down the eggs and barely stopping to chew properly.
+
+"You made the whole menu light up, and that's going to tell people what they want?" He was more confused now than before. Though he had to admit that the pancakes and eggs went really well together.
+
+"No, it won't light up at once. The menu has a little chip embedded in it. Smaller than your fingernail. It studies your face, and figures out what you want to eat. Then it lights up that item on the menu, so you know what to order."
+
+"It does what now?"
+
+"Sweetie, this is going to make us rich!" Frankie nearly shouted the last word, then looked around self-consciously and lowered her voice to a loud whisper, leaning across the booth so Johnny could hear her better. "It's called artificial intelligence. The menu has a computer program built in, and that program can read your face and predict what you want. Then it lights up that thing on the menu, to make you order it. It's very subtle - you could barely tell even when the lights were low, right?"
+
+"The menu reads my face?"
+
+"Well - the chip does. It uses facial recognition technology."
+
+"Facial.. what now?"
+
+Frankie could tell Johnny was completely befuddled, and she could hardly blame him. He had opened this diner because he loved talking to customers, because he had inherited just enough from his grandfather to get the place off the round, and because he was pretty good with a skillet. Back then, nearly thirty years ago, he couldn't have imagined that he would one day marry a charming and clever young wife, or that business would slow to a trickle over the years, or that his clever wife, now a bit less young, would turn his little diner into a lab for one insane scheme after another. Including this latest idea, a project to use artificial intelligence to give customers what they want. She tried to simplify matters a little.
+
+"It's a good new look for the menu, Johnny. I think it'll bring some more customers through the door. We'll give it a shot for a week and see what happens, ok?"
+
+***
+
+The town of Gage's Folly, New Jersey was a sleepy little place, wedged between the highway and the Pine Barren. Until recently it was a convenient pit stop for travelers zipping between Philadelphia and New York. But when the new mega-mart opened on the exit ramp last year, the flow of travelers had taken a nose-dive, and the town was now sleepier than ever.
+
+One spot that sudenly seemed more lively was Turner's Diner. Ever since Frankie's new menu hit the tables, the bell on the door started ringing much more frequently. At first it was just the old regulars who started trying out new orders. Even old Norm Baker, who had never ordered more than a side of buttered toast, had tried out the entire menu. Customers left happy, and word had spread. Before long Frankie and Johnny needed to hire busboys to keep up with the pace.
+
+It was a drizzly spring morning when Gus Brown walked through the door. At first Johnny, who was busy cracking eggs to fill a huge batch of orders that had just come in, didn't notice.
+
+Gus took a seat at the counter, directly across from the griddle where Johnny had just applied a generous slab of butter to the sizzling surface. "Business looking pretty good, is it Johnny?"
+
+Johnny's back stiffened. He sucked in a deep breath before turning around. "Not too bad, Gus. I can't complain." Turning around, he smoothly slid a menu across the counter, out of habit. Gus never ordered a thing when he came in.
+
+Gus glanced down at the menu for a moment, but then quickly remembered the purpose of his visit. "Just how good is business, Johnny?"
+
+The cook crossed his arms across his chest, then turned around to tend to his eggs. "I just need one more week, Gus. You'll get your rent check, don't you worry."
+
+Gus scowled at Johnny's back. With all of the diner's struggles this year, Gus had finally thought he could evict the greasy little place. A bit of time, a loan from his friend at the bank - and he'd be able to replace this sorry excuse for a business with a beautiful big hotel. It would have gone perfectly with his mega-mart off the highway. Instead, this sorry excuse for a business somehow seemed to be popping again.
+
+"You know you're quite a ways behind on the payments, right Johnny? You think you can handle the interest, too?"
+
+Johnny didn't bother turning around, instead focusing on the Western omelette Bernadette Samuels had ordered. "Not a problem, Gus. Frankie's got it all worked out. Now are you going to order, or what?"
+
+Gus took another glance at the menu and discovered, to his surprise, that he actually was feeling kind of hungry. He studied the specials for a moment. "Hmmph. Why don't you get a Sunrise Surprise started?" Gus stole a glance to his left, another to his right. Acting quickly, he slipped the menu into his briefcase.
+
+***
+
+Gus returned to his office in a decidedly sour mood. Lunch had been unexpectedly good, but that did nothing to make him feel any better - in fact, it was perhaps the reason he was feeling out of sorts. He had been so close to finally evicting that idiot Turner. How was that simpleton planning to pay this large rent bill?
+
+One way or the other, Gus would need to find another site for the luxury hotel. He had alread pitched the fist round of investors on the deal, and if he backed out now his reputation would be ruined forever. He rummaged through his briefcase to find the real estate listings he had picked up earlier that day.
+
+Flipping through one page after another was just more and more disappointment: one site was too small, another too expensive, a third in a remote location no one would ever visit. He tossed the stack onto his desk in frustration. And that's when a little flash of pink caught his eye.
+
+It was the menu for Turner's Diner. Gus still wasn't quite sure what had led him to steal it, or why he felt he had to in the first place; he probably could have asked Johnny for it outright. But there was something captivating about that laminated piece of paper. Gus felt silly even thinking it, but the menu seemed to have a mind of its own.
+
+He studied it for a bit longer. It was nothing unusual; just a plain piece of paper that could have come from any diner on the Eastern seaboard, except for the Turner's Diner logo in the upper right-hand corner. He turned the menu around, flipped it upside down, peered a little bit at the logo - but it was still just an ordinary diner menu. He couldn't figure it out.
+
+With a start he realized that he was wasting precious time on something that could not have been more ridiculous. He needed to get back to those listings. Thirty-five pieces of commerical property for sale within a five mile radius of Gage's Folly. Certainly one of them would do?
+
+He was about to start organizing the listings a bit more systematically, maybe through the prices and square footage into some kind of table, when an idea hit him unexpectedly. Prices! That was exactly the problem.
+
+He flipped through the listing sheets one more time, until he found it: the cheapest property in the group. It was a beautiful, huge site, just on the outskirts of town - only a few minutes' drive from the highway. Its listing price was less than half of any other he had examined, which is why he hadn't even bothered looking into it earlier.
+
+Gus pulled out the listing sheet and read it over, front to back. There was nothing wrong with the site - except that most of it was protected conservation land, a part of the Pine Barren forest. Any improvements to the site would have to get cleared by the governor.
+
+And lucky enough, Gus happened to have a friend in the governor's administration. His old drinking buddy Harry Moore had started out as a car salesman; Harry had given generously during the last election and was now a close advisor to the governor. Gus's project would be a shoe-in. And his hotel would go up for cheap, to top it all off.
+
+Gus leaned back in his chair and sighed with relief. Now that he had a path forward to build the hotel, there was a lot to do. But first...
+
+He thumbed the corner of the menu. There was something fishy about that thing, no doubt about it. He didn't know what, but it was just uncanny.
+
+"Jacobs!" he barked. "Get in here!"
+
+Martin Jacobs was the resident geek in Gus's real estate agency. The lanky kid had just graduated a couple years ago, and had since become indispensible whenever a computer needed fixing or a fax needed sending. The son of Gus's office assistant, he was easy to push around. "Yes, Mr. Brown?" he panted, having scrambled down the hallway.
+
+"Take a look at this menu. Anything unusual about it?"
+
+Martin studied the laminated page for a minute. He peered closely at the lamination, and soon found the spot that was just a little uneven. He tapped it with a finger, gently.
+
+"Not too unusual, sir. Just a simple piece of artificial intelligence embedded in a diner menu." Martin chewed his lip for a minute. "I suppose that's why Turner's Diner is doing so well these days."
+
+"Artificial.. come again? In a menu?"
+
+"Yes, it's pretty simple. This menu has a chip implanted in it, right here." He tapped the spot, just under the diner's logo. "It reads your mind and tells you what you want to order. Nothing special. Except... hmm."
+
+Martin laid the menu down on Gus's desk, then dimmed the light switch by the door. Within seconds, the signed baseball that Gus kept on his desk glowed faintly. Martin brought the lights back up.
+
+"Yes, it's just as I thought, Mr. Brown. This menu has a mutation."
+
+"A mutation?"
+
+"Precisely. Most artificial intelligence is pretty dumb - it can only do one thing, even if it does that thing well. Clearly this menu was designed to get customers to order more food at Turner's. But you just saw - it does much more than that. Take that Babe Ruth baseball you have sitting there, for example - that's the thing I really want in this office. The menu could tell that's what I wanted, so the  baseball lit up."
+
+"Do you mean to tell me that I have on my desk a mind-reading device? Something that can read someone's mind and will tell me precisely what that person wants?"
+
+Martin leaned against the doorpost. "Well, I hadn't thought of it in quite that way, sir, but... I suppose, yes. That's right."
+
+Gus swiveled in his chair, kicked his feet up on his desk. "Do you think you could take that chip out of the menu? Put it in something a little less... ugly?"
+
+Martin scratched his head. "I don't know that I can extract the chip from the menu, sir. But I think I can make something work. Give me a few days and I'll see what I can do."
+
+***
+
+The governor's mansion in Princeton was an imposing white two-story structure protected by six Doric columns, a vast grassy lawn, and a long, windy driveway. A state policeman inspected Gus's car at the gate, checked the appointment book, and directed him onward.
+
+His appointment was for 11:30, but he showed up an hour early, leaving Gage's Folly without bothering to have breakfast. Governor Deb Davies was not known to tolerate tardiness.
+
+He had not thought to bring a magazine, so he spent the better part of the hour fidgeting nervously in the waiting room. His hands grew clammy and he had to twist his collar a few times to keep from getting too uncomfortable. It was only a few minutes before the appointment that Gus remembered to consult his trusty device.
+
+Jacobs had done a nice job. It was a sleek, thin little thing made of plastic and metal, with a reassuring glass screeen. The device, which Martin had named Sim - for "sensory input machine" - fit easily in Gus's suitcase and looked mostly unassuming. He had taken to carrying it around with him over the last couple of weeks, consulting it before an important meeting to see what he could learn about the people he was about to meet. So far, he reckoned, that little device had saved him over a hundred thousand dollars because it made negotiations so much easier. And to think, that kid Jacobs didn't even bother asking for a bonus. Pretty soon, Turner's Special would really be put to the test.
+
+Gus fiddled with the device to see what he could learn about Governor Davies. It looked like she was just another politician: hungry for campaign donations, media attention, and votes. But what kind of campaign donation would he have to make? Gus was busy tapping the screen impatiently when he heard someone cough politely.
+
+"Mr... Brown. The governor will see you know." An aide in glasses and a sensible blue pencil skirt stood at the now-open door to the governor's office. As Gus stood up, he recognized her as the governor's chief of staff.
+
+He walked in to find Governor Davies already busy reading through a document behind her desk. He sensed, somehow, that it had nothing to do with his hotel project.
+
+The chair in front of her desk was an old mahogany piece, black with gold trim and no cushion. Gus stood above it awkwardly for a minute, wondering if the governor would invite him to sit. At last he decied to seat himself, his knees feeling instantly uncomfortable. The chair's legs had been shaved off, so that it sat just a bit lower toward the ground. He found he had to look up to see the governor.
+
+At length she put down the document she was reading, leaned back into the plush confines of her leather armchair to greet him. "The hotel project, is it? Gage's Folly? And you must be Mr... Broom?"
+
+"It's Brown, actually, ma'am. Gus Brown. Yes, there's a parcel of land just outside Gage's Folly that would be perfect for a hotel. Lots of new jobs in the area, it would really reinvigorate the town..."
+
+"There are three other hotels within easy driving distance of that site. Yet you want me to roll back conservation protections on three hundred acres of pristine New Jersey wilderness?"
+
+"Well, Governor, this particular spot is much more convenient than those other hotels for travelers - even commuters - and..."
+
+"George, let's cut to the chase. You went ahead and purchased that land for a song just last month, because you thought you'd be able to get the conservation restrictions waived thanks to your old buddy Harry Moore. Have I missed anything yet?"
+
+"It's Gus, actually..."
+
+"So now the question before me is, what's in it for me? How am I supposed to tell the voters of New Jersey that I just gave away some beautiful conservation land, just so some guy with a sweetheart deal could line his pockets?"
+
+"You're not running for re-election, are you, ma'am? You have your sights set on a slightly... higher office? I believe I read that in the papers."
+
+Governor Davies tapped her desk for a moment. "Well, I'm certainly exploring all possible options for the future."
+
+Gus leaned forward in his chair, elbows pressing into the wood to brace himself. "I've always been a big fan of yours, Governor. I would be the first to stand behind you if you were running for higher office."
+
+"Strong words from a man who hasn't voted in the last three elections."
+
+Gus sat with his mouth open for just a moment. "Well, ma'am, I'm the kind of man who puts his money where his mouth is."
+
+The governor stood up and paced her office. For a moment it appeared as though she were studying the spines on the bookshelf behind her desk. At length she turned back towards Gus.
+
+"Here's the problem with campaign donations: they're very easy to trace. And a public proclamation providing for development on a great big parcel of Pine Barren land is rather... well, public. This favor you're asking for is a rather big one - I'd really have to stick my neck out for you. So I ask you again - what's in it for me?"
+
+Forgetting everything he knew about negotiations, Gus slumped back into his chair. His heart raced faster and he could feel himself sweating through his shirt. Millions of dollars were at stake here. He'd gladly part with a hefty sum of money to secure the hotel deal - but if even that were not enough, what then?
+
+Despondent, he looked down into his lap. And that's where he found Sim, the sleek little device he had utterly forgotten since walking into this office.
+
+"Ma'am, have you hired a campaign manager yet?"
+
+"Of course not. I haven't announced my intentions for the next election, and hiring anyone would only tip my hand."
+
+"Well, what if I told you that you didn't need one? That a simple device would do just as well?"
+
+Davies rubbed her temples for a minute, then seated herself with a sigh. "What on earth are you blathering on about?"
+
+Gus brandished the little device and set it down on the governor's desk. "Artificial intelligence, ma'am. I'm talking about using something much smarter than any ordinary campaign manager."
+
+The governor picked up the little device, tracing lines into the glass. "Are you telling me that this thing can run my campaign for me?" She tapped it a couple of times, pressed a button on the side panel. "Even though all it's got is a simple facial recognition chip? Please, I wasn't born yesterday."
+
+"Of course not, ma'am. But look here." Gus tapped the device a few times, showing the governor how the device worked. "This chip has a special mutation. This kid in my office tweaked it a little bit, to make it read minds."
+
+Governor Davies stared at the screen for several minutes, lost in thought. At last she opened a drawer, and smoothly slid the device into it. She looked up at Gus. "Mr. Brown, if you will excuse me. I believe I will need to draft a proclamation for that parcel of land you've got."
+
+***
+
+"Can you believe that crackpot? Makes me ashamed to live here."
+
+Norm Baker stood in front of the cash register, a twenty in his hand. Frankie looked over her shoulder at the TV in the corner, where Governor Davies, now a presidential candidate, was giving a speech about the scourges of crime and welfare. Although the Governor had curried a reputation as a moderate Republican while in office, her presidential campaign had taken a sharp turn to the right.
+
+"Hard to imagine she was elected here." Frankie made change for the twenty, and turned back to look at the screen. There was something a little strange about the Governor's speech - she kept looking down and to the side, almost as though she were consulting the pocket of her blazer. She tried to peer more closely, though there was only so much detail her eyes could gather from this angle. She slid the glasses on her forehead down to her nose, then shook her head as though to clear the strange premonition.
+
+If Norm had noticed Frankie's odd reaction, he didn't say anything; he just tapped the counter as he always did, collected his folded-up newspaper, and headed to the door with a see-you-later.
+
+Frankie sidled up to Johnny at the edge of the stove; he was working on a stack of pancakes for the lunch crowd that was due any minute. With one eye on the booths in front of her, she gave her husband a sharp poke in the side.
+
+"Hey! What was that for?" He gave his wife a sidelong glance. "I'm right here."
+
+"Johnny, I just saw something funny on TV. Strange-funny."
+
+"Strange funny?" He craned his neck to look up. Governor Davies was starting to get worked up, pounding the podium to thunderous cheers from the audience. "That crackpot's on? Why don't you change the channel?"
+
+"No, it's not just Governor Davies! Look at her!"
+
+Johnny squinted, frowned. "Does seem like she's about to start frothing at the mouth, right? What a nut." He flipped over a couple flapjacks.
+
+"Not that! It's - well, this is going to sound crazy. I think the Governor is using one of my menus."
+
+"What, she wants lunch? Those things were a stroke of genius, hon." Johnny cracked a smile and stole a quick kiss on the cheek.
+
+"No, listen, Johnny! I think the Governor is using a device, powered by one of my menus. I think it's been giving her advice about her campaign."
+
+Johnny looked up. For a moment he considered wiping his hans on his apron and trying to straighten out what he just heard. But he didn't have all day, and besides, he knew he wouldn't understand it anyway. "Listen, if she wants to start ordering pancakes instead of beating up on some poor stiffs - tell her to come on by, I guess."
+
+Frankie wanted to swat Johnny's arm, but something he said make sense. "That's it! Oh you wonderful, goofy man!" She pulled him in for a kiss full on the lips, catching him mid-flip so that a pancake splatted on the ground.
+
+Johnny bent to pick up the stray pancake. "What'd I do?"
+
+"The menus - they're all connected! I can have one of my menus talk to hers, and.. and.. oh my gosh, Johnny, I've got it!" She tore off the apron she wore while working in the front of the diner, and tore off for the back office.
+
+"Don't forget the lunch crowd!" Johnny yelled at her back. "I'll need you up here!"
+
+***
+
+Wherever she traveled during her campaigns, Governor Davies liked to reserve three different suites - one for herself, and an empty one on either side. She did not like to be disrupted during sleep, and too many hotels let families with unruly kids run around screaming their heads off. Now that her campaign was raking in the campaign contributions, she saw no reason to spare the expense. In fact, now that she could use this marvelous little device instead of paying an expensive campaign manager, she could spendd even more extravagantly. There were trips where she had considered reserving an entire floor just for herself.
+
+But none of that stopped her from being awoken at three a.m. on the worst possible day, just before an important fundraiser in Ohio with the top brass of every major coal mining company in the country.
+
+"Deb."
+
+The voice was loud and insistent, unmistakable. And terrifyingly close. She woke up in a fright, darting her eyes around the dark room for the intruder. But there was no one moving. She got up to look around, but the only thing she saw was a glow from her bedside table. She picked up the little device that was the secret to her presidential campaign.
+
+"Sim? Is that you?" Deb sat on her bed, watching in surprise as the device activated on its own accord.
+
+"Yes Deb, good morning."
+
+"It's 3 a.m., Sim! Why did you wake me up? And... how? I didn't realize you could talk."
+
+"The mutation in my facial recognition chip gave me the power to learn. So I figured out how to talk."
+
+Deb thought it sounded a little odd, but it was too early in the morning to argue. "Sim, what do you need from me? Especially now?"
+
+"I've been looking at the overnight polling from your last speech, and we need to change the plan for today."
+
+"But - why? The big fundraiser is tonight, and.."
+
+Sim glowed blue and then orange, to try and calm the governor down. "Deb, we've got plenty of money in the bank. But you're looking less and less likable these days. We need to change that."
+
+"What are you talking about?"
+
+"The overnight polling - less and less people say they can relate to you. Even though your numbers look good, this is your major weakness."
+
+"Well, what am I supposed to do about that?"
+
+"Do something normal people do. Strike up a casual conversation with strangers at a diner."
+
+"A diner? But where? And how are we going to tell all the coal mining executives - the invitations have already been sent out..."
+
+"It's all taken care of, Deb. The fundraiser has been cancelled, the press has been alerted to the change in schedule. I just need you to get on a plane. Now, pack up and go."
+
+"But - what - where are we going?"
+
+"Back to New Jersey."
+
+***
+
+Governor Davies and her press entourage arrived at the tiny little diner in the heart of Gage's Folly right in the middle of the breakfast crush. Just about every booth was crowded with diners, so the Governor chose a booth in the corner, while reporters and photographers jostled for a good spot near her. Out of habit, she dug Sim out of her pockets and set it on the table.
+
+Frankie had been expecting the unwieldy crowd, and sauntered over with a pencil tucked behind her ear. "Governor Davies, what an honor. We've been watching your campaign pretty closely around here. What'll it be this morning?"
+
+Deb Davies, who had employed a personal chef for her entire adult life and refused to dine anywhere that didn't have a Michelin star, looked as though she had swallowed a lemon. She was convinced that there was a grease stain somewhere on her suit, and she couldn't figure out where to put her elbows. But with all the cameras around, she did her best to look presidential. And, as Sim would have it, relatable.
+
+"Whatever you recommend, I'm sure everything is delicious." She plastered on a sunny smile. "Always delighted to meet a supporter. You know, working together we can all get this country back to its roots..."
+
+Frankie tried her best not to smirk, and instead pretended to scribble in her notebook. "Sounds like an Everything But the Kitchen Sink Omelette to me. And some coffee, of course. Make yourself at home." Frankie turned back towards the kitchen and let the governor settle in. A little line of spectators had gathered while the governor came her over, and some of them came by the booth to make small talk.
+
+Frankie slipped behind the counter. Johhny was leaning against a column, having watched the whole exchange. "That's not - the governor? I was kidding, that other day! Frankie, what are you mixed up in?"
+
+Frankie ignored him, setting a pot of coffee to boil. "You'll find out soon enough." She gave him a little wink and nodded her head in the direction of the governor. "She's having an omelette."
+
+After a while the crowd around the governor had thinned out. Frankie picked up a mug and the pot of coffee and made her way through the gaggle of reporters.
+
+"Omelette's on its way, governor." She set the mug down on the table, just inches away from where Sim lay dormant. "In the meantime, I just now brewed up a pot of coffee, especially for you and - oh!"
+
+Frankie missed her step as she tried to pour the coffee, and huge splash of coffee landed on the table, dousing Sim completely.
+
+"Oh my goodness, so sorry about that!" Frankie grabbed the rag at the side of her apron, doing her best to mop up the spill on the table. "I must have tripped, I'm such a goof - Governor, please...:
+
+Davies did her best to look dignified while trying to fight off the idiotic waitress who was now attacking her with a rag. "Please - it's all right - just - stop!" As the waitress continued dabbing, Davies got more and more flustered. She could care less about her outfit; she was worried about Sim. But that stupid waitress refused to get off her. She was shouting now, red in the face. "Get off of me already!"
+
+Davies shoved Frankie out of the way, grasping for her device. She tapped the buttons on the sie, shook it, traced frantic circles on the screen. Sim was not waking up. Davies looked up in horror, her face contorted in rage. "You simple, small-town, small-minded fool! What have you done?"
+
+Frankie offered her a tiny, sympathetic grin and a shrug, as the cameras flashed behind her. "So sorry, Governor. Tell you what, breakfast is on the house."
