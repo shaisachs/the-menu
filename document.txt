@@ -142,7 +142,7 @@ Pipsqueak though he was, Jacobs had done a nice job. It was a sleek, thin little
 
 Gus fiddled with the device to see what he could learn about Governor Davies. It looked like she was just another politician: hungry for campaign donations, media attention, and votes. But what kind of campaign donation would he have to make? Gus was busy tapping the screen impatiently when he heard someone cough politely.
 
-"Mr... Brown. The governor will see you know." An aide in glasses and a sensible blue pencil skirt stood at the now-open door to the governor's office. As Gus stood up, he recognized her as the governor's chief of staff.
+"The governor will see you know." An aide in glasses and a sensible blue pencil skirt stood at the now-open door to the governor's office. As Gus stood up, he recognized her as the governor's chief of staff.
 
 He walked in to find Governor Davies already busy reading through a document behind her desk. He sensed, somehow, that it had nothing to do with his hotel project.
 
@@ -176,11 +176,13 @@ The governor stood up and paced her office. For a moment it appeared as though s
 
 "Here's the problem with campaign donations: they're very easy to trace. And a public proclamation providing for development on a great big parcel of state forest land is rather... well, public. This favor you're asking for is a rather big one - I'd really have to stick my neck out for you. So I ask you again - what's in it for me?"
 
-Forgetting everything he knew about negotiations, Gus slumped back into his chair. His heart raced faster and he could feel himself sweating through his shirt. Millions of dollars were at stake here. He'd gladly part with a hefty sum of money to secure the hotel deal - but if even that were not enough, what then?
+Forgetting everything he knew about negotiations, Gus slumped back into his chair. His heart raced faster and he could feel himself sweating through his shirt. Millions of dollars were at stake here. To secure the hotel deal, he'd gladly write a check to the governor's campaign, even a large one - but if even that were not enough, what then?
 
 Gus sighed heavily. This whole thing should have been so easy. Despondent, he looked down into his lap. And that's where he found Sim, the sleek little device he had utterly forgotten since walking into this office.
 
-"Ma'am, have you hired a campaign manager yet?"
+There was nothing interesting on the screen - at least nothing that seemed very useful. Instead Sim was giving Gus a summary of the governor's public profile: who her top campaign contributors were, what her standing was in the latest polls, and so on. Nothing about what she wanted from him at the present moment. And yet, it gave him an inkling of an idea.
+
+Gus looked up, sitting forward in his chair. "Ma'am, have you hired a campaign manager yet?"
 
 "Of course not. I haven't announced my intentions for the next election, and hiring anyone would only tip my hand."
 
@@ -192,7 +194,9 @@ Gus brandished the little device and set it down on the governor's desk. "Artifi
 
 The governor picked up the little device, tracing lines into the glass. "Are you telling me that this thing can run my campaign for me?" She tapped it a couple of times, pressed a button on the side panel. "Please, I wasn't born yesterday."
 
-"Of course not, ma'am. But look here." Gus tapped the device a few times, showing the governor how the device worked. "This chip can read minds."
+"Of course not, ma'am. But look here." Gus tapped the device a few times, showing the governor how it worked. "This device - I call it Sim -it  can read minds."
+
+He stood up, as straight as he could. "Perhaps I might find a way to loan you Sim for a little while. To help you get things in order." 
 
 Governor Davies stared at the screen for several minutes, lost in thought. At last she opened a drawer, and smoothly slid the device into it and looked up. "Mr. Brown, I must say you've made some very convincing arguments. If you will excuse me, I need to draft a proclamation for a parcel of state forest land."
 
