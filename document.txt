@@ -160,9 +160,9 @@ Her husband bent down, one forearm on his knee as he skipped a rock across the m
 
 Frankie flipped her sandal at him, sending a spray onto his rolled-up pants leg. "I'm so glad we're playing hookie. Couldn't have asked for a better afternoon."
 
-Johnny arched an eyebrow. They had had this exact conversation a hundred, two hundred times before: Frankie wanting to take a vacation, Johnny anxious about the struggling diner. But with the diner doing so well, they could finally afford to close up shop for a few days.
+Johnny arched an eyebrow. They had had this exact conversation a hundred, two hundred times before: Frankie wanting to take a vacation, Johnny anxious about the struggling diner. But now that the diner was doing so well, they could finally afford to close up shop for a few days.
 
-He sent a gray-and-white speckled pebble careening across the waves as she plucked one foot out of the water to dry, balancing awkwardly on the other. "You never really did explain it, you know." Johnny stuck his hands in his pockets, looking out to the horizon.
+He sent a gray-and-white speckled pebble careening across the waves as she plucked one foot out of the water to dry, balancing awkwardly on the other. Johnny stuck his hands in his pockets, looking out to the horizon. "You never really did explain it, you know."
 
 Frankie planted her foot back on the sand, a bird suddenly recalled to the earth in the face of a gathering storm. "Honey it was - look, it was just a crazy idea I had. You don't mind, do you? The menu's been such a hit!"
 
@@ -174,7 +174,7 @@ She returned an icy look. "Is that really what you think of me? That I'd do some
 
 "So - what, you want me to explain facial recognition to you? Show you how to solder a chip? You've never been interested in any of this stuff before, why the sudden change? Just because we're making money now?"
 
-Johnny studied his toes in the water. They were turning a light shade of blue. "Ok, yeah, I guess so. Because we're making money now. Because I have time to think about something besides how we're gonna pay the bills. I want to know what you're doing, ok? Is that really so bad?"
+Johnny studied his toes in the water. They were turning a light shade of blue. "Ok, yeah, I guess so. Because we're making money now. Because I have time to think about something besides how we're gonna pay the bills. I want to know what you're up to, ok? Is that really so bad?"
 
 Frankie exhaled, loudly. She wondered how long they could stand around this way before frostbite set in. But Johnny did have a point. Maybe even a very good point. "It's not so bad," she began. "You're right. I like it that you're interested. It's just kind of new. And anyway it's not really that complicated."
 
@@ -200,7 +200,7 @@ Frankie gave him a wink. "You know what they say about necessity."
 
 Jonny studied the horizon for a minute, then two. Sunset was rapidly approaching. "Ok, so tell me this. How come we're never out of eggs, or anything like that? People never order hash browns when we're low on potatoes. That's most of the reason we're doing so well, actually. Did you do that, too?"
 
-"You guessed my secret!" Frankie slipped her arm through the crook of her husband's elbow. "I hooked up all the menus so that they could talk to one another. And to our computer, where I store the inventory. I designed the chips so that every morning at 3 a.m., they check back in with our inventory system. And the inventory system is programmed so that the menus start to suggest different things if we're running low on something." She scooted a little closer to him. "So, what do you think?"
+"You guessed my secret!" Frankie slipped her arm through the crook of her husband's elbow. "I hooked up all the menus so that they could talk to one another. And to our computer, where I store the inventory. I designed the chips so that every morning at 3 a.m., they check back in with our inventory system. And the inventory system is programmed so that the menus start to suggest alternative dishes if we're running low on key ingredients. If we're out of bananas, people order berries with their pancakes instead - simple as that." She scooted a little closer to him. "So, what do you think?"
 
 He gave her a little nudge. "I think you're a lot smarter than I ever imagined possible."
 
@@ -208,21 +208,21 @@ Frankie shivered as goosebumps ran up her arm. "I'm also a lot colder than I eve
 
 ***
 
-The governor's mansion in Princeton was an imposing white two-story structure protected by six Doric columns, a vast grassy lawn, and a long, windy driveway. A state policeman inspected Gus's car at the gate, checked the appointment book, and directed him onward.
+The Governor's mansion in Princeton was an imposing white two-story structure protected by six Doric columns, a vast grassy lawn, and a long, windy driveway. A state policeman inspected Gus's car at the gate, checked the appointment book, and directed him onward.
 
 His appointment was for 11:30, but he showed up an hour early, leaving Gage's Folly without bothering to have breakfast. Governor Dave Davies was not known to tolerate tardiness.
 
 Gus had not thought to bring a magazine, so he spent the better part of the hour fidgeting nervously in the waiting room. His hands grew clammy and he had to twist his collar a few times to keep from getting too uncomfortable. It was only a few minutes before the appointment that Gus remembered to consult his trusty device.
 
-Following instructions given by the chip itself, Gus had managed to put together a nice little case for the menu. All it took was a sheet of metal, some buttons and wires, and a reassuring glass screen. After a few hours' work, what had started out as a surprisingly intelligent menu was now a sleek, thin little thing that looked rather stylish. The device, which Gus had named Sim - for "sensory input machine" - fit easily in a briefcase and looked mostly unassuming. He had taken to carrying it around with him over the last couple of weeks, consulting it before an important meeting to see what he could learn about the people he was about to meet. So far, he reckoned, that little device had saved him over a hundred thousand dollars because it made negotiations so much easier.
+Following instructions given by the chip itself, Gus had managed to put together a nice little case for the menu. All it took was a sheet of brushed aluminum, some buttons and wires, and a reassuring glass screen. After a few hours' work, what had started out as a surprisingly intelligent menu was now a sleek, thin little thing that looked rather stylish. The device, which Gus had named Sim - for "sensory input machine" - fit easily in a briefcase and looked mostly unassuming. He had taken to carrying it around with him over the last couple of weeks, consulting it before an important meeting to see what he could learn about the people he was about to meet. So far, he reckoned, that little device had saved him over a hundred thousand dollars because it made negotiations so much easier.
 
-But now, Sim would really be put to the test - this meeting with the governor simply had to go well. Sim and Gus had spent hours preparing for it, extensively researching the governor's background and likely political future. As far as Gus could tell, Governor Davies looked like just another politician: hungry for campaign donations, media attention, and votes. But what kind of campaign donation would he have to make?
+But now, Sim would really be put to the test - this meeting with the governor simply had to go well. Sim and Gus had spent hours preparing for it, extensively researching the governor's background and likely political future. As far as Gus could tell, Governor Davies looked like just another politician: hungry for media attention, votes, and campaign donations. But what kind of campaign donation would Gus have to make?
 
-"The governor will see you now." An aide in glasses and a pinstripe suit stood at the now-open door to the governor's office. As Gus stood up, he recognized the aide as the governor's chief of staff.
+"The Governor will see you now." An aide in glasses and a pinstripe suit stood at the now-open door to the office. As Gus stood up, he recognized the aide as the Governor's chief of staff.
 
-Gus walked in to find Governor Davies already busy reading through a document behind his desk. He sensed, somehow, that the document had nothing to do with his hotel project.
+Gus walked in to find Governor Davies already busy reading through a document behind his desk. Gus sensed, somehow, that the document had nothing to do with his hotel project.
 
-The chair in front of the governor's desk was an old mahogany piece, black with gold trim and no cushion. Gus stood above it awkwardly for a minute, wondering if the governor would invite him to sit. At last he decided to seat himself, his knees feeling instantly uncomfortable. The chair's legs had been trimmed down, so that it sat just a bit lower toward the ground. He found he had to look up to see the governor.
+The visitor's chair in front of the desk was an old mahogany piece, black with gold trim and no cushion. Gus stood above it awkwardly for a minute, wondering if the Governor would invite him to sit. At last he decided to seat himself, his knees feeling instantly uncomfortable. The chair's legs had been trimmed down, so that it sat just a bit lower toward the ground. He found he had to look up to see the Governor.
 
 Eventually Davies put down the document he was reading, leaned back into the plush confines of his leather armchair to greet the visitor. "The hotel project, is it? Gage's Folly? And you must be Mr... Broom?"
 
@@ -238,25 +238,25 @@ Eventually Davies put down the document he was reading, leaned back into the plu
 
 "So now the question before me is, what's in it for me? How am I supposed to tell the voters of New Jersey that I just gave away some beautiful conservation land, just so some guy with a sweetheart deal could line his pockets?"
 
-"You're not running for re-election, are you, sir? You have your sights set on a slightly... higher office? I believe I read that in the papers."
+Gus could tell that things were going off-track, and tried a change of subject. "You're not running for re-election, are you, sir? You have your sights set on a slightly... higher office?" The research he and Sim had done before the meeting had come in handy, after all.
 
 Governor Davies tapped his desk for a moment. "Public servants are always looking for the best way to serve the people. Politics is always a question of which options are available at any given moment."
 
-Gus leaned forward in his chair, elbows pressing into the wood to brace himself. "I've always been a big fan of yours, Governor. I would be the first to stand behind you if you were running for higher office."
+Gus leaned forward in his chair, elbows pressing into the arms of the chair to brace himself. "I've always been a big fan of yours, Governor. I would be the first to stand behind you if you were running for higher office."
 
 "Strong words from a man who isn't registered to vote."
 
 Gus could feel the blush rise to his cheeks. "Well, sir, I'm the kind of man who puts his money where his mouth is."
 
-The governor stood up and paced the office. For a moment it appeared as though he was studying the spines on the bookshelf behind her desk. At length he turned back towards Gus.
+The Governor stood up and paced the office. For a moment it appeared as though he was studying the spines on the bookshelf behind her desk. At length he turned back towards Gus.
 
 "Here's the problem with campaign donations: they're very easy to trace. And a public proclamation providing for development on a great big parcel of state forest land is rather... well, public. This favor you're asking for is a rather big one - I'd really have to stick my neck out for you. So I ask you again - what's in it for me?"
 
-Forgetting everything he knew about negotiations, Gus slumped back into his chair. His heart raced faster and he could feel himself sweating through his shirt. Millions of dollars were at stake here. To secure the hotel deal, he'd gladly write a check to the governor's campaign, even a large one - but if that weren't enough, what then?
+Forgetting everything he knew about negotiations, Gus slumped back into his chair. His heart raced faster and he could feel himself sweating through his shirt. Millions of dollars were at stake here. To secure the hotel deal, he'd gladly write a check to the Governor's campaign, even a large one - but if that weren't enough, what then?
 
-Gus sighed heavily. This whole thing should have been so easy. Despondent, he looked down into his lap. And that's where he found Sim, the sleek little device he had utterly forgotten since walking into this office.
+Gus sighed heavily. This whole thing should have been so easy. Despondent, he looked down into his lap. And that's where he found Sim, the sleek little device he had utterly forgotten since walking into the office.
 
-Sim wasn't doing anything interesting - at least nothing that seemed very useful. Instead Sim was giving Gus a summary of the governor's public profile: who the top campaign contributors were, what the Governor's standing was in the latest polls, and so on. Nothing about what Davies would want from him at the present moment. And yet, Gus had an inkling of an idea.
+Sim wasn't doing anything interesting - at least nothing that seemed very useful. Instead Sim was giving Gus a summary of the Governor's public profile: who the top campaign contributors were, what the Governor's standing was in the latest polls, and so on. Nothing about what Davies would want from him at the present moment. And yet, Gus had an inkling of an idea.
 
 Gus looked up, sitting forward in his chair. "Sir, have you hired a campaign manager yet?"
 
@@ -266,13 +266,13 @@ Gus looked up, sitting forward in his chair. "Sir, have you hired a campaign man
 
 Davies rubbed his temples for a minute, then seated himself with a sigh. "What on earth are you blathering on about?"
 
-Gus brandished the little device and set it down on the governor's desk. "Artificial intelligence, sir. I'm talking about using something much smarter than any ordinary campaign manager."
+Gus brandished the little device and set it down on the desk. "Artificial intelligence, sir. I'm talking about using something much smarter than any ordinary campaign manager."
 
 Davies picked up the little device, tracing lines into the glass. "Are you telling me that this thing can run my campaign for me?" He tapped it a couple of times, pressed a button on the side panel. "Please, I wasn't born yesterday."
 
-"Of course not, sir. But look here." Gus tapped the device a few times, showing the governor how it worked. "This device - I call it Sim - it can do anything a campaign manager can do, and more. Just watch it for a few minutes and tell me if I'm wrong."
+"Of course not, sir. But look here." Gus tapped the device a few times, showing the Governor how it worked. "This device - I call it Sim - it can do anything a campaign manager can do, and more. Just watch it for a few minutes and tell me if I'm wrong."
 
-It was a tremendous risk to make such a bold promise, especially without having discussed it with Sim first. But the cunning little chip delivered. In an instant it began drawing up graphs indicating key states the governor should visit first; then it compsed a memo proposing the top issues the governor should stress in his speeches; and after a minute it played a simple but devestating attack ad against the governors' most likely opponent.
+It was a tremendous risk to make such a bold promise, especially without having discussed it with Sim first. But the cunning little chip delivered. In an instant it began drawing up maps indicating key states the Governor should visit first; then it compsed a memo proposing the top issues the Governor should stress in his speeches; and after a minute it played a simple but devestating attack ad against the Governor's most likely opponent.
 
 Gus stood up, as straight as he could. "Perhaps I might find a way to loan you Sim for a little while. To help you get things in order." 
 
@@ -282,7 +282,7 @@ Governor Davies stared at the screen for several minutes, lost in thought. At la
 
 "Can you believe that crackpot? Makes me ashamed to live here." Norm Baker stood in front of the cash register, a twenty in his hand.
 
-Frankie looked over her shoulder at the TV in the corner, where Governor Davies, now a presidential candidate, was giving a speech about the scourges of immigration and environmental regulations.
+Frankie looked over her shoulder at the TV in the corner, where Governor Davies, now a Presidential candidate, was giving a speech about the scourges of immigration and environmental regulations.
 
 "He used to be one of those crazy-rich tax-cut Republicans, straight out of central casting." Frankie rang him up and handed over the change. "Now he's just plain crazy. Figures, right?"
 
@@ -292,7 +292,7 @@ Once he was out the door, Frankie turned to look at the screen more closely. The
 
 Frankie sidled up to Johnny at the edge of the stove; he was working on a stack of pancakes for the lunch crowd that was due any minute. With one eye on the booths in front of her, she gave her husband a sharp poke in the side.
 
-"Hey! What was that for?" Johnny gave his wife a sidelong glance. "I'm right here."
+"Hey! What was that for?" Johnny gave his wife a dirty look. "I'm right here."
 
 "Johnny, I just saw something funny on TV. Strange-funny."
 
@@ -310,7 +310,7 @@ Johnny didn't bother responding. Frankie would explain herself.
 
 Johnny scraped the surface of the griddle with his spatula, loosening up a few bits of dough that had burnt on. Then he gave Frankie a long, sideways glance.
 
-Frankie didn't wait for an answer. "I know it sounds strange but - somehow, I just know it. Remember how I said we were missing a menu the other day? He must have it!"
+Frankie didn't wait for an answer. "I know it sounds strange but - I just know it. Remember how I said we were missing a menu the other day? He must have it!"
 
 "Fine, maybe he does... but what does that have to do with the campaign?"
 
@@ -330,13 +330,13 @@ Frankie twisted her hands together. "It's a little complicated."
 
 "What? Is that even possible?"
 
-"Well - all I did was snip a couple of wires. So that it could listen in a bit."
+"Well - all I did was add a couple of wires. So that it could listen in a bit."
 
 "Listen in? A bit?"
 
-"Yeah. That menu can figure out what people are saying, and - well, I guess it sort of learns things along the way." Despite herself, Frankie seemed like she was somehow proud of the invention. She actually seemed like she was trying to suppress a grin.
+"Yeah. That menu can figure out what people are saying, and - well, I guess it sort of learns things along the way." Despite herself, Frankie seemed like she was somehow proud of the invention. She was doing her best to suppress a grin.
 
-"So you mean to tell me there's some kind of... I don't know, super-menu out there, in the wild? And that it's helping this lunatic governor of ours run for... for President?"
+"So you mean to tell me there's some kind of... I don't know, super-menu out there, in the wild? And that it's helping this lunatic Governor of ours run for... for President?"
 
 Frankie looked back at the TV, her face falling again. "Yeah. I think that's it. What are we going to do? I can't just let this happen. Maybe we could - I don't know, do you think we could sneak into one of his rallies, or..."
 
@@ -358,15 +358,15 @@ But none of that stopped him from being awoken shortly after three a.m. on the w
 
 "Dave."
 
-Sim's voice was loud and insistent, much more so than usual. Davies awoke in a fright, darting his eyes around the dark room for the intruder. But there was no one moving. It took him a few moments to realize that the voice calling him must be Sim's.
+The voice was loud and insistent, much more so than usual. Davies awoke in a fright, darting his eyes around the dark room for the intruder. But there was no one moving. It took him a few moments to realize that the voice calling him must be Sim's.
 
 "Sim? What are you doing?" Davies sat on the bed, watching as the screen began to activate, opening two or three different documents at once.
 
 "Good morning, Dave."
 
-"It's 3 a.m., Sim! Why the devil did you wake me up?"
+"It's three a.m., Sim! Why the devil did you wake me up?"
 
-"It is now 3:05 am, 32 seconds past the minute. I've been looking at the overnight polling from your last speech, and we need to change the plan for today."
+"It is now 3:05 a.m., 32 seconds past the minute. I've been looking at the overnight polling from your last speech, and we need to change the plan for today."
 
 "But - why? The big fundraiser is tonight, and.. can't we just discuss this at a normal time?"
 
@@ -394,23 +394,23 @@ Governor Davies and his press entourage arrived at the tiny little diner in the 
 
 Frankie had been expecting the unwieldy crowd, and sauntered over with a pencil tucked behind her ear. "Governor Davies, what an honor. We've been watching your campaign pretty closely around here. What'll it be this morning?"
 
-Dave Davies, who had employed a personal chef for his entire adult life and refused to dine anywhere that didn't have a Michelin star, looked as though he had swallowed a lemon. He was convinced that there was a grease stain somewhere on his five-figure Armani suit, and he couldn't figure out where to put his elbows. But with all the cameras around, he did his best to look presidential. And, as Sim would have it, relatable.
+Dave Davies, who had employed a personal chef for his entire adult life and refused to dine anywhere that didn't have a Michelin star, looked as though he had swallowed a lemon. He was convinced that there was a grease stain somewhere on his five-figure Armani suit, and he couldn't figure out where to put his elbows. But with all the cameras around, he did his best to look Presidential. And, as Sim would have it, relatable.
 
 "Whatever you recommend, I'm sure everything is delicious." He plastered on a sunny smile. "Always delighted to meet a supporter. You know, working together we can all get this country back to its roots..."
 
-Frankie tried her best not to smirk, and instead pretended to scribble in her notebook. "Sounds like an Everything But the Kitchen Sink Omelette to me. And some coffee, of course. Make yourself at home." Frankie turned back towards the kitchen and let the governor settle in. A little line of spectators had gathered while the governor gave his order, and some of them came by the booth to make small talk.
+Frankie tried her best not to smirk, and instead pretended to scribble in her notebook. "Sounds like an Everything But the Kitchen Sink Omelette to me. And some coffee, of course. Make yourself at home." Frankie turned back towards the kitchen and let the Governor settle in. A little line of spectators had gathered behind Frankie, and some of them came by the booth to make small talk.
 
 Frankie slipped behind the counter. Johnny was leaning against a column, having watched the whole exchange. "Coffee should be ready in a minute."
 
 Frankie turned a little pirouette behind the bar and concluded by tousling her husband's hair. "Perfect." She gave him a little wink and nodded her head in the direction of the governor. "Might as well start the omelette. I think he'll need it."
 
-After a while the crowd around the governor had thinned out. Frankie picked up a mug and the pot of coffee and made her way through the gaggle of reporters.
+After a while the crowd around the Governor had thinned out. Frankie picked up a mug and the pot of coffee and made her way through the gaggle of reporters.
 
-"Omelette's on its way, governor." She set the mug down on the table, just inches away from where Sim lay dormant. "In the meantime, I just now brewed up a pot of coffee, especially for you and - oh!"
+"Omelette's on its way, Governor." She set the mug down on the table, just inches away from where Sim lay dormant. "In the meantime, I just now brewed up a pot of coffee, especially for you and - oh!"
 
-Frankie missed her step as she tried to pour the coffee, and a huge splash of coffee landed on the table, dousing Sim completely.
+Frankie missed her step as she tried to pour, and a huge splash of coffee landed on the table, dousing Sim completely.
 
-"Oh my goodness, so sorry about that!" Frankie grabbed the rag at the side of her apron, doing her best to mop up the spill on the table. "I must have tripped, I'm such a goof - Governor, please..."
+"Oh my goodness, so sorry about that!" Frankie grabbed the rag at the side of her apron, doing her best to mop up the spill on his suit jacket. "I must have tripped, I'm such a goof - Governor, please..."
 
 Davies did his best to look dignified while trying to fight off the idiotic waitress who was now attacking him with a rag. "Please - it's all right - just - stop!" As the waitress continued dabbing, Davies got more and more flustered. He could care less about the suit; he was worried about Sim. The entire campaign was at stake! But that stupid waitress refused to back away. Davies was shouting now, red in the face. "Get off of me already!"
 
